@@ -1,0 +1,6 @@
+{
+  "name": "Grounded",
+  "description": "A calm, interactive field guide exploring how everyday urban nature—street trees, living soil, and micro-climates—shapes your daily health and well-being.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

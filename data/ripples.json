@@ -1,0 +1,35 @@
+{
+  "regions": [
+    {
+      "id": "pacific-northwest",
+      "label": "Pacific Northwest",
+      "weeklyCount": 0
+    },
+    {
+      "id": "midwest-lakes",
+      "label": "Midwest & Great Lakes",
+      "weeklyCount": 0
+    },
+    {
+      "id": "northeast-corridor",
+      "label": "Northeast Corridor",
+      "weeklyCount": 0
+    },
+    {
+      "id": "california-coast",
+      "label": "California Coast",
+      "weeklyCount": 0
+    },
+    {
+      "id": "southwest-mountain",
+      "label": "Southwest & Mountain",
+      "weeklyCount": 0
+    },
+    {
+      "id": "southeast-piedmont",
+      "label": "Southeast Piedmont",
+      "weeklyCount": 0
+    }
+  ],
+  "recentNotes": []
+}
